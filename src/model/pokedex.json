@@ -1,0 +1,138 @@
+{
+    "spectre": [
+        {
+            "id": 3,
+            "name": "Lanssorien",
+            "numero": 178
+        },
+        {
+            "id": 4,
+            "name": "Gromago",
+            "numero": 1000
+        },
+        {
+            "id": 1,
+            "name": "Ectotoplasma",
+            "numero": 94
+        },
+        {
+            "id": 2,
+            "name": "Momartik",
+            "numero": 56
+        }
+    ],
+    "feu": [
+        {
+            "id": 1,
+            "name": "Dracaufeu",
+            "numero": 12
+        },
+        {
+            "id": 2,
+            "name": "Sulfura",
+            "numero": 233
+        },
+        {
+            "id": 3,
+            "name": "Entei",
+            "numero": 873
+        },
+        {
+            "id": 4,
+            "name": "Groudon",
+            "numero": 145
+        }
+    ],
+    "eau": [
+        {
+            "id": 1,
+            "name": "Kyogre",
+            "numero": 76
+        },
+        {
+            "id": 2,
+            "name": "Leviathor",
+            "numero": 23
+        },
+        {
+            "id": 3,
+            "name": "Carapuce",
+            "numero": 4
+        },
+        {
+            "id": 4,
+            "name": "Psykokwak",
+            "numero": 190
+        },
+        {
+            "name": "Pikachu",
+            "numero": 343
+        }
+    ],
+    "plante": [
+        {
+            "id": 1,
+            "name": "Bulbizarre",
+            "numero": 345
+        },
+        {
+            "id": 2,
+            "name": "Masko",
+            "numero": 236
+        },
+        {
+            "id": 3,
+            "name": "Archeduc",
+            "numero": 765
+        },
+        {
+            "id": 4,
+            "name": "Zitouni",
+            "numero": 890
+        }
+    ],
+    "combat": [
+        {
+            "id": 1,
+            "name": "Tygnon",
+            "numero": 110
+        },
+        {
+            "id": 2,
+            "name": "Lucario",
+            "numero": 323
+        },
+        {
+            "id": 3,
+            "name": "Machopeur",
+            "numero": 132
+        },
+        {
+            "id": 4,
+            "name": "Kicklee",
+            "numero": 149
+        }
+    ],
+    "electrique": [
+        {
+            "id": 1,
+            "name": "Elektek",
+            "numero": 67
+        },
+        {
+            "id": 2,
+            "name": "Elector",
+            "numero": 456
+        },
+        {
+            "id": 3,
+            "name": "Salarsen",
+            "numero": 78
+        },
+        {
+            "id": 4,
+            "name": "Pikachu",
+            "numero": 343
+        }
+    ]
+}
